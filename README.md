@@ -2,10 +2,9 @@
 
 <p align="left"> 
   Hello, my name is Davi, i'm 17 years old and i am a <strong>software enginner</strong>.<br>
-  <hr>
   Working on small projects for the internship, and still involved in school studies.
 </p>
-
+<hr>
 <p align="left">
   🖥️ Programming Languages: <strong>JavaScript, Html, Css, Java, Python, Dart, Sql.</strong>
 </p>
@@ -31,6 +30,8 @@
   <a href="https://www.instagram.com/davi.rfa/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.rfa/"/></a>
 </p>  
+
+<hr>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
