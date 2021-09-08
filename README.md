@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.rfa/-"/></a>
 </p>  
 
-<div>
-  ![Snake animation](https://github.com/DaviRibeiro-prog/DaviRibeiro-prog/blob/output/github-contribution-grid-snake.svg)
-</div>
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
  
