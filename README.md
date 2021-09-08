@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🖥️ Linguagens: <strong>JavaScript, Html, Css, Java, Python, Dart, Sql.</strong>
+  🖥️ Programming Languages: <strong>JavaScript, Html, Css, Java, Python, Dart, Sql.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Android Studio, Eclipse, Workbench, PyCharm.</strong>
+  💼 Tools: <strong>VsCode, Android Studio, Eclipse, Workbench, PyCharm.</strong>
 </p>
 
 <p align="left">
