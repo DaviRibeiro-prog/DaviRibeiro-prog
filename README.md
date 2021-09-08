@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Davi, i'm 17 years old and i am a <strong>software enginner</strong>.<br>
+  Hi, my name is Davi, i'm 17 years old and i am a <strong>software enginner</strong>.
+  <br>
   Working on small projects for the internship, and still involved in school studies.
 </p>
 <hr>
